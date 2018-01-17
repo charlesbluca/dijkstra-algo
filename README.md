@@ -23,4 +23,4 @@ Design Choices:
 Quirks:
 ----------
 - The total distance printed may vary slightly (around .1) from the distance that can be acquired by adding up the displayed edge weights
-- This is because my Euclidean computations do NOT round to the first deci
+- This is because my Euclidean computations do NOT round to the first decimal place - the actual edge weights are much more precise than the weights displayed
