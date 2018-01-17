@@ -1,11 +1,10 @@
 # dijkstra-algo
-==========
 An assignment for Data Structures in Java; uses Dijkstra's algorithm to find the shortest distance between two cities, with a GUI representation (credited to my professor and IAs)
 
 Compiling/Executing:
 ----------
-- In command line, execute "javac Display.java" to compile all files
-- Then execute "java Display" to run the GUI - from there the interface should be an adequate guide
+- In command line, type "javac Display.java" to compile all files
+- Then type "java Display" to run the GUI - from there the interface should be an adequate guide
 
 Design Choices:
 ----------
