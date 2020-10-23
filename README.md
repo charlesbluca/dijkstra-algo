@@ -3,8 +3,10 @@ An assignment for Data Structures in Java; uses Dijkstra's algorithm to find the
 
 Compiling/Executing:
 ----------
-- In command line, type "javac Display.java" to compile all files
-- Then type "java Display" to run the GUI - from there the interface should be an adequate guide
+```
+javac Display.java
+java Display
+```
 
 Design Choices:
 ----------
